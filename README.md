@@ -35,6 +35,7 @@ Terraform follows a modular architecture organized around these main components:
                       │  State Management   │     │  External APIs   │
                       │                     │     │                  │
                       └─────────────────────┘     └──────────────────┘
+```
 # Core Components
 
 ### 1. Terraform CLI
