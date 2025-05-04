@@ -23,7 +23,7 @@ Terraform follows a modular architecture organized around these main components:
 ```
 ┌───────────────┐     ┌───────────────────────┐     ┌───────────────┐
 │               │     │                       │     │               │
-│  Terraform    │────▶│      Terraform        │────▶│   Provider    │
+│  Terraform    │────▶│      Terraform       │────▶│   Provider    │
 │     CLI       │     │        Core           │     │   Plugins     │
 │               │     │                       │     │               │
 └───────────────┘     └───────────────────────┘     └───────────────┘
